@@ -1,4 +1,4 @@
-# 💲 Conversor De Moedas
+# 💱 Conversor De Moedas
 ### Conversor de Moeda - Challenge ONE - Java - Back end
 
 🚀 Projeto desenvolvido durante o Challenge ONE T7 (2024).
